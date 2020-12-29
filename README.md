@@ -1,4 +1,5 @@
 # jenkinsサーバー
+ver 1.0.0
 jenkinsをdocker-composeで構築したもの
 
 ## 初期起動
